@@ -1,6 +1,6 @@
 <div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=6A00D9&background=FF030300&random=false&width=550&lines=Hello!+I+am+Cau%C3%A3!;I'm+currently+studying+programming!)](https://git.io/typing-svg)![fox](https://github.com/zReptonL/zReptonL/assets/45742438/17f0fdd5-ecbd-4f21-bbda-d4ebd3ed34df)
+(https://git.io/typing-svg)![fox](https://github.com/zReptonL/zReptonL/assets/45742438/17f0fdd5-ecbd-4f21-bbda-d4ebd3ed34df)
 
 <div align="center">
   
