@@ -1,6 +1,5 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A27F7&random=false&width=435&lines=Hello!+I'm+Cau%C3%A3+Oliveira!;I'm+currently+studying+programming!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A27F7&random=false&width=435&lines=Hello!+I'm+Cau%C3%A3+Oliveira!;I'm+currently+studying+programming!)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
