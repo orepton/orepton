@@ -1,6 +1,3 @@
-<div>
-
-(https://git.io/typing-svg)![fox](https://github.com/zReptonL/zReptonL/assets/45742438/17f0fdd5-ecbd-4f21-bbda-d4ebd3ed34df)
 
 <div align="center">
   
