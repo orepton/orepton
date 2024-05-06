@@ -10,15 +10,6 @@
 </div>
 
 
-</div>
-
-<div align="column">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orepton&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orepton&layout=compact&theme=tokyonight"/>
-</div>
-
-<div>
-
 # 📖 About me
 
 • 🖥 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚂𝚝𝚞𝚍𝚎𝚗𝚝;
