@@ -2,6 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=6A00D9&background=FF030300&random=false&width=550&lines=Hello!+I+am+Cau%C3%A3!;I'm+currently+studying+programming!)](https://git.io/typing-svg)![fox](https://github.com/zReptonL/zReptonL/assets/45742438/17f0fdd5-ecbd-4f21-bbda-d4ebd3ed34df)
 
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtzFxz&theme=jolly&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+<div align="center">
+<a href="https://github.com/ArtzFxz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtzFxz&layout=compact&langs_count=7&theme=jolly"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtzFxz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+</div>
+</div>
+
+
 </div>
 
 <div align="column">
